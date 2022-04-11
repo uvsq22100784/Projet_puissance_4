@@ -1,4 +1,4 @@
-# Projet_tas_de_sable_
+# Projet_puissance_4
 #####################################################
 
 **#Groupe BITD3** :
@@ -8,6 +8,8 @@
 #Elyes Rahmouni 
 #
 #Antoine Ravelli
+#
+#Elias
 #
 #Laura Leclerc
 #
