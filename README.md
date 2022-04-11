@@ -1,4 +1,4 @@
-# Projet_tas_de_sable_
+# Projet_puissance_4
 #####################################################
 
 **#Groupe BITD3** :
